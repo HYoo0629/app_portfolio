@@ -34,7 +34,7 @@
 ## 🎬 핵심 인터랙션 (MP4)
 
 1. 날씨 인터페이스
-https://github.com/user-attachments/assets/cc66eec2-be69-4fe7-acf9-a2679819d1a8
+https://github.com/user-attachments/assets/424a4f32-33ef-4861-a15c-e24e40c56ed8
 2. 알람 메뉴
 https://github.com/user-attachments/assets/aaf2f091-a8d0-4377-8b57-68da883b9b26
 3. 알람 끄기 (포인트 적립x)
