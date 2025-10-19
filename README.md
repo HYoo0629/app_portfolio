@@ -32,25 +32,49 @@
 <br>
 
 ## 🎬 핵심 인터랙션 (MP4)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-1. 날씨 인터페이스
-https://github.com/user-attachments/assets/424a4f32-33ef-4861-a15c-e24e40c56ed8
-2. 알람 메뉴
-https://github.com/user-attachments/assets/aaf2f091-a8d0-4377-8b57-68da883b9b26
-3. 알람 끄기 (포인트 적립x)
-https://github.com/user-attachments/assets/2dbddac3-e295-4948-9544-9a604bf4b25a
-4. 기상 알람 (포인트 적립o)
-https://github.com/user-attachments/assets/8f76f5f0-2c32-412c-94a6-f57473a94cfe
-5. 일기-1
-https://github.com/user-attachments/assets/f86583b4-270e-40c4-a7d6-a1fff4b92c8f
-6. 일기-2(음악 선정)
-https://github.com/user-attachments/assets/587956b2-da5e-4ea8-9afe-b80c1390406e
+  <div>
+    <video src="https://github.com/user-attachments/assets/424a4f32-33ef-4861-a15c-e24e40c56ed8" autoplay loop muted width="300"></video>
+    <p align="center">날씨 인터페이스</p>
+  </div>
 
+  <div>
+    <video src="https://github.com/user-attachments/assets/59a4400f-3613-4a42-b7e4-937a944c164d" autoplay loop muted width="300"></video>
+    <p align="center">알람 메뉴</p>
+  </div>
 
+  <div>
+    <video src="https://github.com/user-attachments/assets/8f65294f-afd7-43bc-bccb-60ed45812fe4" autoplay loop muted width="300"></video>
+    <p align="center">기상 알람 시안(끈 경우)</p>
+  </div>
 
+  <div>
+    <video src="https://github.com/user-attachments/assets/00b9e10e-f9d5-41e0-a5b5-b44c47e3df99" autoplay loop muted width="300"></video>
+    <p align="center">기상 알람 시안</p>
+  </div>
 
+  <div>
+    <video src="https://github.com/user-attachments/assets/7a27e12c-a1e9-4af6-8bb5-1581a66c115e" autoplay loop muted width="300"></video>
+    <p align="center">일기 메뉴</p>
+  </div>
 
+  <div>
+    <video src="https://github.com/user-attachments/assets/ff3986b1-cd4f-45a7-8fdb-3f0384ec4351" autoplay loop muted width="300"></video>
+    <p align="center">일기-음악 검색</p>
+  </div>
 
+  <div>
+    <video src="https://github.com/user-attachments/assets/e569e2df-3747-45ee-987c-a8eda3740b6b" autoplay loop muted width="300"></video>
+    <p align="center">외출 알림 메뉴</p>
+  </div>
+
+  <div>
+    <video src="https://github.com/user-attachments/assets/a2b47160-31bf-4674-bc98-91ff34044ade" autoplay loop muted width="300"></video>
+    <p align="center">외출 알람 시안</p>
+  </div>
+
+</div>
 
 <br>
 
@@ -61,8 +85,11 @@ https://github.com/user-attachments/assets/587956b2-da5e-4ea8-9afe-b80c1390406e
 ### 1. 프로젝트 목표
 
 * 무엇보다 중요한 것은 다양한 기능이 **서로 유기적으로 연결되어** 사용자에게 도움을 줄 수 있으면 좋을 것 같다는 생각이었습니다.
-* (예: 기존의 일정 관리 앱들은 너무 복잡해서 사용자가 쉽게 지치는 문제가 있었습니다.)
-* (예: 그래서 저는 사용자가 3번의 터치만으로 하루를 기록할 수 있는 직관적인 앱을 디자인하는 것을 목표로 했습니다.)
+* 개인적으로 음악이 사람에게 미치는 영향이 크다고 생각합니다. 그래서 안그래도 일어나기 괴로운 아침에 일어났을 때, 듣고 싶은 음악을 들음으로서 소소한 행복을 느낄 수 있지 않을까 생각하였습니다.
+* 또한 저는 평소에 허둥지둥 나가는 편이라 비 오는 날 우산을 까먹고 나가는 경우가 꽤 많은데, 저와 비슷한 사람들이 외출 알림 기능을 사용하면 매우 유용할 것 같습니다.
+* 일기 기능을 활용해 소소하게 감성을 챙기고자 했습니다.
+* '포인트 적립' 시스템은 바푸리 캐릭터에 대한 애착을 키울 수 있고, 그를 통해 건강한 생활( 아침에 잘 일어나기, 하루를 돌아볼 수 있는 일기 쓰기)을 루틴처럼 만들 수 있습니다.
+* (기능이 꽤 많아서 어려울 것 같기도 하지만 이를 실제로 구현해보고 싶습니다!)
 
 ### 2. 디자인 컨셉
 
