@@ -1,17 +1,17 @@
-# app_UI design_portfolio 🌟
+# app_UI design_portfolio
 **어플리케이션 이름: 바푸리**
 
-> [ 바푸리 캐릭터와 함께 하는 감성 넘치는 데일리 케어 앱]
+> [ **바푸리 캐릭터와 함께 하는 감성 넘치는 데일리 케어 앱** ]
 
 <br>
 
-## 🚀 앱 프로토타입 (직접 눌러보세요!)
+## 🚀 앱 프로토타입
 
-아래 링크를 클릭하면 제가 디자인한 앱을 직접 눌러보고 경험할 수 있습니다. (모두 가능한 건 아니고 주요 기능들만 프로토타이핑 해놨습니다!)
+링크를 클릭하면 제가 디자인한 앱을 직접 눌러보고 경험할 수 있습니다. (모두 가능한 건 아니고 주요 기능들만 프로토타이핑 해놨습니다!)
 
 **[Figma 프로토타입 링크 바로가기](https://www.figma.com/proto/KPxWMlNgh6AkNciOc1YeFi/%EC%95%B1-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=0%3A1&node-id=84-2127&viewport=71%2C915%2C0.29&t=9yVymBgxWuDPM6yF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=34%3A5&show-proto-sidebar=1)** <br>
 
-## 핵심 기능
+## 💡 핵심 기능
 
 제가 디자인한 앱의 핵심 기능을 소개하겠습니다.
 - **어플리케이션의 핵심 설정**
@@ -31,50 +31,40 @@
 
 <br>
 
-## 🎬 핵심 인터랙션 (MP4)
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+## 🎬 핵심 인터랙션 (GIF)
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/424a4f32-33ef-4861-a15c-e24e40c56ed8" autoplay loop muted width="300"></video>
-    <p align="center">날씨 인터페이스</p>
-  </div>
+* 날씨 인터페이스 (날씨에 따라 인터페이스가 변경됨을 보여주기 위한 것입니다)
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/59a4400f-3613-4a42-b7e4-937a944c164d" autoplay loop muted width="300"></video>
-    <p align="center">알람 메뉴</p>
-  </div>
+![날씨 인터페이스](https://github.com/user-attachments/assets/39db3091-015d-4010-bb67-1a2f16544fd5)
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/8f65294f-afd7-43bc-bccb-60ed45812fe4" autoplay loop muted width="300"></video>
-    <p align="center">기상 알람 시안(끈 경우)</p>
-  </div>
+* 알람 메뉴 (기상. 취침 알람 설정 및 그간의 기록 확인 가능)
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/00b9e10e-f9d5-41e0-a5b5-b44c47e3df99" autoplay loop muted width="300"></video>
-    <p align="center">기상 알람 시안</p>
-  </div>
+![alarm menu](https://github.com/user-attachments/assets/c4b9d5a9-be3e-4684-94e7-708d688b34a2)
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/7a27e12c-a1e9-4af6-8bb5-1581a66c115e" autoplay loop muted width="300"></video>
-    <p align="center">일기 메뉴</p>
-  </div>
+* 알람 끄기 시안
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/ff3986b1-cd4f-45a7-8fdb-3f0384ec4351" autoplay loop muted width="300"></video>
-    <p align="center">일기-음악 검색</p>
-  </div>
+![alarm off](https://github.com/user-attachments/assets/11ca811f-8859-4606-ae2d-8509ed670390)
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/e569e2df-3747-45ee-987c-a8eda3740b6b" autoplay loop muted width="300"></video>
-    <p align="center">외출 알림 메뉴</p>
-  </div>
+* 기상 알람 시안 (알람-미니게임-음악듣기 흐름) 
 
-  <div>
-    <video src="https://github.com/user-attachments/assets/a2b47160-31bf-4674-bc98-91ff34044ade" autoplay loop muted width="300"></video>
-    <p align="center">외출 알람 시안</p>
-  </div>
+![wake](https://github.com/user-attachments/assets/c90c54a8-82e4-49a2-a2f8-9aadd9b9ac45)
 
-</div>
+* 일기 메뉴 시안
+
+![diary](https://github.com/user-attachments/assets/a220bd19-4244-4a89-bba1-297eaad0a446)
+
+* 일기 메뉴 시안2 (🎵)
+
+![dia-music](https://github.com/user-attachments/assets/dd377027-d10a-4553-9703-13797077dcb6)
+
+* 외출 알림 메뉴
+
+![out m](https://github.com/user-attachments/assets/d5e54fe8-bbe1-43e4-8615-5fc5aee32c1b)
+
+* 외출 알람 시안
+
+![outal](https://github.com/user-attachments/assets/c38dea85-af9f-4c21-9016-7d20d3d9c77b)
+
 
 <br>
 
@@ -94,7 +84,7 @@
 ### 2. 디자인 컨셉
 
 * 눈에 편안한 색과 폰트를 사용
-  - 이용자가 어플리케이션을 사용할 때 편안함과 행복감을 느낄 수 있으면 좋겠다는 마음으로 이들을 사용했습니다!
+  - 이용자가 어플리케이션을 사용할 때 편안함과 행복감을 느낄 수 있으면 좋겠다는 마음으로 사용했습니다!
 
 ### 3. 사용한 툴
 
