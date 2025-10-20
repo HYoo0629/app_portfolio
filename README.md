@@ -9,6 +9,12 @@
 
 링크를 클릭하면 제가 디자인한 앱을 직접 눌러보고 경험할 수 있습니다. (모두 가능한 건 아니고 주요 기능들만 프로토타이핑 해놨습니다!)
 
+*주의할 점:*
+
+*[알람메인메뉴]에서 자동으로 4초 후에 [알람이 울리는 화면]으로 이동하게 했습니다.*
+
+*[유튜브 화면] 및 [일기-음악 검색]에서도 자동으로 화면이 넘어갑니다.*
+
 **[Figma 프로토타입 링크 바로가기](https://www.figma.com/proto/KPxWMlNgh6AkNciOc1YeFi/%EC%95%B1-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=0%3A1&node-id=84-2127&viewport=71%2C915%2C0.29&t=9yVymBgxWuDPM6yF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=34%3A5&show-proto-sidebar=1)** <br>
 
 ## 💡 핵심 기능
