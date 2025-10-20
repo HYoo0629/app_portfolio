@@ -15,7 +15,7 @@
 
 *[유튜브 화면] 및 [일기-음악 검색]에서도 자동으로 화면이 넘어갑니다.*
 
-**[Figma 프로토타입 링크 바로가기]([https://www.figma.com/proto/KPxWMlNgh6AkNciOc1YeFi/%EC%95%B1-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=0%3A1&node-id=62-343&viewport=-543%2C1138%2C0.48&t=JIk835IqUNUZAPyG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=34%3A5&show-proto-sidebar=1])** <br>
+**[Figma 프로토타입 링크 바로가기](https://www.figma.com/proto/KPxWMlNgh6AkNciOc1YeFi/%EC%95%B1-%EB%94%94%EC%9E%90%EC%9D%B8?page-id=0%3A1&node-id=62-343&viewport=-543%2C1138%2C0.48&t=JIk835IqUNUZAPyG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=34%3A5&show-proto-sidebar=1)** <br>
 
 ## 💡 핵심 기능
 
